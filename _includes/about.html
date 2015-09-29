@@ -1,0 +1,12 @@
+<div class="page">
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+    {% if node.title != null %}
+      {% if node.layout == "page" and node.title == 'About Me' %}
+          <h1 class="page-title">{{ node.title }}</h1>
+          {{ node.content }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+</div>

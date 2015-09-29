@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            I'am Prima
+tagline:          'A Resume'
+description:      "I love code and experiment"
+url:              http://note.primaadi.net
+baseurl:          /resume/
+
+author:
+  name:           'Prima Adi'
+  url:            https://twitter.com/prima101112
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
