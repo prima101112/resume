@@ -11,7 +11,7 @@ title:            I'am Prima
 tagline:          'A Resume'
 description:      "I love code and experiment"
 url:              http://note.primaadi.net
-baseurl:          /resume/
+baseurl:          /resume
 
 author:
   name:           'Prima Adi'
