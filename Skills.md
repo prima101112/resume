@@ -7,7 +7,7 @@ title: Skills And Interest
 ## Skills
 
 - Programming Language
-  - php
+  - php (Codeigniter, Laravel, FuelPHP)
   - golang
   - python
   - javascript

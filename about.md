@@ -7,7 +7,7 @@ title: About Me
 
 Hey! I'm Prima
 
-### personal Information
+### Personal Information
 
 - Full Name : Prima Adi Pradana
 - Sex : Male
