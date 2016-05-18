@@ -28,5 +28,8 @@ title: Skills And Interest
 - New NoSql Database
   - CouchBase
   - Learning Graph Database
+- New Stack
+  - Microservices
+  - Docker
 - Best Practice API Development
-- Creating something new (not yet implemented) :D
+- Creating something new
