@@ -10,15 +10,11 @@ Hey! I'm Prima
 ### Personal Information
 
 - Full Name : Prima Adi Pradana
-- Sex : Male
-- Place and Date of birth : Boyolali, 10 September 1991
-- marital status : married
-
-I'm currently live at benjeng Rt 02/34 Maguwoharjo Sleman Jogjakarta but i came from
-Solo at jalan mataram 9 Rt 01/XI Banyuanyar.
+- Sex : Male, Married
+- Life in : Jogja
 
 ### Profile
 
-Experienced in software development more than 3 years as programmer and Software engineer. Love researching and developing using new technologies and new stack. Capable of using framework in php and python and now i'am fall in love with golang. Using Mysql MongoDb and Elasticsearch for database and also learning cassandra and couchbase.
+Experienced in software development more than 4 years as programmer and Software engineer. Love researching and developing using new technologies and new stack. Capable of using framework in php and python and now i'am fall in love with golang. Using Mysql MongoDb and Elasticsearch for database and also learning cassandra and couchbase.
 
 Thanks for reading!
